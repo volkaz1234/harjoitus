@@ -3,7 +3,7 @@ def summa(a, b):
 
 
 def erotus(a, b):
-    print("erotus", a, b)
+    return a-b
 
 
 def tulo(a, b):
